@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+streamlit
+python-whois
+requests
+beautifulsoup4
+openpyxl
+joblib
+tldextract
